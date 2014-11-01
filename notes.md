@@ -1,5 +1,5 @@
 This is my first file managed by git.
 Here is a second line.
 Here is a third line.
-fourth line.
+fourth line in branch master.
 
